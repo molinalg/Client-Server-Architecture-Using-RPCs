@@ -8,20 +8,20 @@ It was made for the subject "Distributed Systems" and corresponds to one of the 
 **NOTE:** The code and comments are in spanish.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
+- [Installation](#installation-linux)
+- [Usage](#usage-linux)
 - [Problem Proposed](#problem-proposed)
 - [License](#license)
 - [Contact](#contact)
 
-## Installation
+## Installation (Linux)
 To install the necessary libraries run the following command:
 
 ```sh
 sudo apt-get install rpcbind libtirpc-dev dos2unix
 ```
 
-## Usage
+## Usage (Linux)
 Before you can execute the program you need to compile and generate the executables:
 
 ```sh
